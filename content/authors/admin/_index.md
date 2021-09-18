@@ -48,7 +48,7 @@ social:
   icon_pack: fab
   link: https://github.com/Tangmingwei
 - icon: researchgate
-  icon_pack: researchgate
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Mingwei-Tang
 
 # Link to a PDF of your resume/CV.
