@@ -6,7 +6,7 @@ external_link: ""
 url_slides: ""
 title: on-chip superresolution imaging
 tags:
-  - optics
+  - Optics
 links:
   - icon: twitter
     icon_pack: fab
