@@ -21,6 +21,7 @@ authors:
   - Qing Yang
   - Clemens F. Kaminski
 doi: https://doi.org/10.1002/adfm.201900126
+publication: Advanced Functional Materials
 abstract: Wide field-of-view (FOV), label-free, super-resolution imaging is
   demonstrated using a specially designed waveguide chip that can illuminate a
   sample with multicolor evanescent waves travelling along different directions.
