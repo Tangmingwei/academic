@@ -65,5 +65,5 @@ email: tmw@zju.edu.cn
 highlight_name: true
 ---
 
-I'm a research associate at the College of Optical Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of Qing Yang. His current research interests involve the field of nanomaterials, metamaterials, and their applications in super-resolution imaging and sensing in medical cell biology.
+I'm a research associate at the College of Optical Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of Qing Yang. My  research interests involve the field of nanomaterials, metamaterials, and their applications in super-resolution imaging and sensing in medical cell biology.
 
