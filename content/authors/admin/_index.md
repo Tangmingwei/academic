@@ -67,5 +67,3 @@ highlight_name: true
 
 I'm a research associate at the College of Optical Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of Qing Yang. His current research interests involve the field of nanomaterials, metamaterials, and their applications in super-resolution imaging and sensing in medical cell biology.
 
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
