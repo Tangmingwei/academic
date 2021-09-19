@@ -35,7 +35,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
----
+
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -54,3 +54,5 @@ design:
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+
+---
