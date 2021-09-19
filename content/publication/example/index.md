@@ -1,12 +1,19 @@
 ---
-title: "An example conference paper"
+title: "Chip-compatible wide-field 3D nanoscopy through tunable spatial frequency shift effect"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Xiaowei Liu†
+- Mingwei Tang†
+- Chao Meng
+- Chenlei Pang
+- Cuifang Kuang
+- Wei Chen
+- Clemens F Kaminski
+- Qing Yang
+- Xu Liu
 
 # Author notes (optional)
 author_notes:
@@ -23,16 +30,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Science China Physics, Mechanics & Astronomy*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Spatial frequency shift (SFS) microscopy with evanescent wave illumination shows intriguing advantages, including large field of view (FOV), high speed, and good modularity. However, a missing band in the spatial frequency domain hampers the SFS superresolution microscopy from achieving resolution better than 3 folds of the Abbe diffraction limit. Here, we propose a novel tunable large-SFS microscopy, making the resolution improvement of a linear system no longer restricted by the detection numerical aperture (NA). The complete wide-range detection in the spatial frequency domain is realized by tuning the illumination spatial frequency actively and broadly through an angle modulation between the azimuthal propagating directions of two evanescent waves. The vertical spatial frequency is tuned via a sectional saturation effect, and the reconstructed depth information can be added to the lateral superresolution mask for 3D imaging. A lateral resolution of λ/9, and a vertical localization precision of ∼λ/200 (detection objective NA = 0.9) are realized with a gallium phosphide (GaP) waveguide. Its unlimited resolution enhancing capability is demonstrated by introducing a designed metamaterial chip with an unusual large refractive index. Besides the great resolution enhancement, this method shows better anti-noise capability than classical structured illumination microscopy without SFS tunability. This method is chip-compatible and can potentially provide a mass-producible illumination chip module achieving the fast, large-FOV, and deep-subwavelength 3D nanoscopy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We demonstrated the possibility of achiveving 3D superresolution imaging on a photonic chip.
 
 tags: []
 
@@ -66,22 +73,22 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- on-chip superresolution imaging
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+# Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
