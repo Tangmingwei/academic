@@ -32,7 +32,7 @@ draft: false
 featured: true
 projects: []
 image:
-  filename: featured
+  filename: lpor201900011-gra-0001-m.jpg
   focal_point: Smart
   preview_only: false
 date: 2020-09-03T09:15:09.422Z
