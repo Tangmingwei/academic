@@ -1,6 +1,6 @@
 ---
 title: on-chip superresolution imaging
-summary: An example of using the in-built project page.
+# summary: An example of using the in-built project page.
 tags:
 - optics
 date: "2021-09-19"
