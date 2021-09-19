@@ -37,7 +37,7 @@ abstract: Wide field-of-view (FOV), label-free, super-resolution imaging is
   super-resolution techniques integrated optical circuits or for the development
   of single-use diagnostic kits.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
