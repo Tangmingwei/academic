@@ -16,7 +16,7 @@ abstract: Recently, super-resolution imaging methods based on frequency-shift
 location: Hangzhou, China
 date: 2019-10-22T11:32:18.655Z
 date_end: 2019-10-22T16:00:00.000Z
-all_day: true
+all_day: false
 event: SPIE/COS Photonics Asia 2019, Oral
 event_url: https://spie.org/conferences-and-exhibitions/photonics-asia?SSO=1
 publishDate: 2021-09-19T11:32:18.667Z
