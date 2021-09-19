@@ -38,8 +38,8 @@ abstract: Wide field-of-view (FOV), label-free, super-resolution imaging is
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-09-19T09:20:21.760Z
+date: 2019-09-02T09:24:57.149Z
 ---
