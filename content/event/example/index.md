@@ -19,7 +19,7 @@ title: Fast response CdS-CdTe hybrid nanobelt photodetector
 location: San Francisco, USA.
 date: 2018-01-27T13:00:00.000Z
 date_end: 2018-02-01T15:00:00.000Z
-all_day: true
+all_day: false
 event: SPIE Photonics West 2018 (OPTO), Invited talk
 event_url: https://spie.org/conferences-and-exhibitions/photonics-west
 featured: false
@@ -32,12 +32,8 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-publishDate: 2017-01-01T00:00:00Z
+links: []
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
