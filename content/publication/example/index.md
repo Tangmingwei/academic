@@ -82,7 +82,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
----
 title: "Chip-compatible wide-field 3D nanoscopy through tunable spatial frequency shift effect"
 
 # Authors
