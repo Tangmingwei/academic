@@ -47,9 +47,9 @@ design:
   - name: All
     tag: '*'
   - name: Optics
-    tag: Optics
+    tag: optics
   - name: Materials
-    tag: Materials
+    tag: materials
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
