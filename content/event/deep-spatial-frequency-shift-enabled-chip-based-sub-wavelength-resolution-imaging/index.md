@@ -14,8 +14,8 @@ abstract: >
 
   Besides generating precise evanescent waves for illumination, the SFS chips also function as the sample holder, releasing the complexity of the optical path. We expect this SFS chip will advance the development of the biological, medical, and material study.
 location: Xiamen,China
-date: 2021-04-25T11:49:46.636Z
-date_end: 2021-04-28T16:00:00.000Z
+date: 2021-04-25
+date_end: 2021-04-28
 all_day: false
 event: IEEE-NEMS 2021, Poster
 event_url: https://ieee-nems.org/2021/
