@@ -15,8 +15,8 @@ abstract: Linear super-resolution microscopy via synthesis aperture approach
   chip. Besides, the method includes a chip-based sectioning capability, which
   is enabled by the saturated absorption of fluorophores.
 location: Beijing,China(online)
-date: 2020-10-12T11:43:41.684Z
-date_end: 2020-10-15T16:00:00.000Z
+date: 2020-10-12
+date_end: 2020-10-15
 all_day: false
 event: SPIE/COS Photonics Asia 2020, Oral
 event_url: https://spie.org/conferences-and-exhibitions/photonics-asia
