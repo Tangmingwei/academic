@@ -6,7 +6,7 @@ title: Mingwei Tang
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Research associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
