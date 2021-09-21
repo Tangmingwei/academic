@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Optical Engineering
+  - course: Ph.D. in Optical Engineering
     institution: Zhejiang University
     year: 2021
-  - course: BSc in Optoelectronic Information Engineering
+  - course: B.Eng. in Optoelectronic Information Engineering
     institution: Nanjing University of Science and Technology
     year: 2016
 
