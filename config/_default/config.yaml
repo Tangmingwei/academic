@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MingweiTang,PhD # Website name
+title: Mingwei Galileo Tang,PhD # Website name
 baseurl: 'https://mingweitang.com/' # Website URL
 copyright: '&copy;2021| Mingwei Tang' # Footer text, e.g. '© {year} Me'
 
